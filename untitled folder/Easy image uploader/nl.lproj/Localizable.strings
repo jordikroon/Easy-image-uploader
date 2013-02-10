@@ -1,0 +1,22 @@
+/*
+ Localizable.strings
+ simple image uploader
+ 
+ Created by Jordi Kroon on 9/9/12.
+ Copyright (c) 2012 Jordi Kroon. All rights reserved.
+ */
+
+"Uploadmethod" = "Upload methode";
+
+"Cancel" = "Annuleer";
+"Camera" = "Camera";
+"Photolib" = "Foto album";
+
+"Uploading" = "Uploaden...";
+"Succeed" = "Gelukt!";
+
+"Sharelink" = "Deel je link!";
+"Copy" = "Kopieren";
+
+"Nocontitle" = "Geen internet verbinding!";
+"Nocontxt" = "Een geldige internet verbinding internet is noodzakelijk om deze applicatie te kunnen gebruiken.Schakel 3G of WIFI in.";

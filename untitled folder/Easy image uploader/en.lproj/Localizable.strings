@@ -1,0 +1,23 @@
+/*
+ Localizable.strings
+ simple image uploader
+ 
+ Created by Jordi Kroon on 9/9/12.
+ Copyright (c) 2012 Jordi Kroon. All rights reserved.
+ */
+
+"Uploadmethod" = "Upload method";
+
+"Cancel" = "Cancel";
+"Camera" = "Camera";
+"Photolib" = "Photo album";
+
+"Uploading" = "Uploading...";
+"Succeed" = "Succeed!";
+
+"Sharelink" = "Share your link";
+"Copy" = "Copy and dismiss";
+
+"Nocontitle" = "No internet connection";
+"Nocontxt" = "A valid internet connection is required to communicate with the servers. Please turn on WIFI or 3G!";
+
